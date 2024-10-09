@@ -1,4 +1,5 @@
 ## Hi there!
+> <b>General Information</b>
 - My name is Quan H. Nguyen.
 - 💻 I'm a <b>software engineer</b>.
 - 🎓 Currently pursuing research in <b>Computer Vision</b> and <b>Deep Learning</b>.
