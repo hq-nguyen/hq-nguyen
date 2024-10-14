@@ -1,6 +1,6 @@
 ## Hi there!
 
-- My name is Quan H. Nguyen.
+- I'm Quan H. Nguyen.
 - My major is <b>Software Engineer</b>.
 - Currently pursuing research in <b>Computer Vision</b> and <b>Deep Learning</b>.
 - Based in Ho Chi Minh City.
