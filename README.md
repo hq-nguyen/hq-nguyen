@@ -3,7 +3,6 @@
 - I'm Quan H. Nguyen.
 - My major is <b>Software Engineer</b>.
 - Currently pursuing research in <b>Computer Vision</b> and <b>Deep Learning</b>.
-- Based in <b>Ho Chi Minh City</b>.
 - Open to collaborating on exciting <b>projects</b> related to software development, AI, and machine learning.
 
 > Research Interests
