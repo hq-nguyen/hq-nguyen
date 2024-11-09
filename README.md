@@ -1,6 +1,5 @@
-## Hi there!
-
-- I'm Quan H. Nguyen.
+## Hi!
+- I'm Nguyen Hai Quan.
 - Ho Chi Minh City.
 - My major is <b>Software Engineer</b>.
 - Currently pursuing research in <b>Computer Vision</b> and <b>Deep Learning</b>.
