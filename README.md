@@ -10,5 +10,6 @@
 - <b>Computer Vision</b>: Exploring image processing, pattern recognition, and object detection techniques.
   
 > **Reach Me**
-- <b>E-mail</b> : quannvhqe180068@fpt.edu.vn 
-- <b>Languages</b> : Vietnamese & English  
+- <b>E-mail</b> : nguyenhaiquan.data@gmail.com
+- <b>Languages</b> : Vietnamese & English
+- <!-- - **E-mail** : quannvhqe180068@fpt.edu.vn -->
