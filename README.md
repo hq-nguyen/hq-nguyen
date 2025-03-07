@@ -13,3 +13,7 @@
 - <b>E-mail</b> : nguyenhaiquan.data@gmail.com
 - <b>Languages</b> : Vietnamese & English
  <!-- - **E-mail** : quannvhqe180068@fpt.edu.vn -->
+
+ <div align="center">
+  <img src="![hq-nguyen's Stats](https://github-readme-stats.vercel.app/api?username=hq-nguyen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)"  />\
+  </div>
