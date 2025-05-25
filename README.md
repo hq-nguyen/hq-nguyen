@@ -13,5 +13,5 @@
 - <b>E-mail</b> : nguyenhaiquan.data@gmail.com
 - <b>Languages</b> : Vietnamese & English
 
-**CV**: [View My CV](https://drive.google.com/file/d/1D4-a4j8DfUbLPiHEC3T3ekxE4d3cBgfC/view) 
+ <!-- **CV**: [View My CV](https://drive.google.com/file/d/1D4-a4j8DfUbLPiHEC3T3ekxE4d3cBgfC/view)  -->
  <!-- - **E-mail** : quannvhqe180068@fpt.edu.vn -->
